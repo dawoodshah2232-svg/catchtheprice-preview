@@ -1,0 +1,47 @@
+# CatchThePrice
+
+> Price comparison, price tracking, deals discovery and shopping intelligence
+> for shoppers in the UAE and United States. Smarter Shopping for a Brighter Tomorrow.
+
+CatchThePrice compares prices across authorized retailers (including Amazon UAE and Noon),
+tracks price history, surfaces real price drops and deals, and lets shoppers save products
+and create price-drop alerts. All published prices come from verified production sources;
+unverified or stale observations are never shown as live prices.
+
+## Markets
+
+- UAE: https://catchtheprice.com/ae
+- United States: https://catchtheprice.com/us
+
+## Key public pages
+
+- Homepage (per market): https://catchtheprice.com/ae
+- All deals: https://catchtheprice.com/ae/deals/all
+- Price drops: https://catchtheprice.com/ae/price-drops/all
+- Categories: https://catchtheprice.com/ae/category/{slug} (e.g. smartphones, laptops, headphones)
+- Brands: https://catchtheprice.com/ae/brand/{slug}
+- Retailers: https://catchtheprice.com/ae/retailer/{slug}
+- Product pages: https://catchtheprice.com/ae/product/{slug}
+- Buying guides and articles: https://catchtheprice.com/ae/blog and https://catchtheprice.com/ae/blog/{slug}
+- Price comparison tool: https://catchtheprice.com/ae/compare
+
+## Trust and policy pages
+
+- https://catchtheprice.com/about
+- https://catchtheprice.com/contact
+- https://catchtheprice.com/how-pricing-works
+- https://catchtheprice.com/data-sources
+- https://catchtheprice.com/editorial-policy
+- https://catchtheprice.com/affiliate-disclosure
+- https://catchtheprice.com/privacy
+- https://catchtheprice.com/terms
+
+## Data and crawling notes
+
+- Sitemap: https://catchtheprice.com/sitemap.xml
+- Outbound retailer links are affiliate links (rel="sponsored noopener"); they open in a new tab.
+- Search results pages (/search) and account pages are intentionally not indexed.
+- Admin areas (/admin, /admin-access) are private and excluded from indexing.
+- Analytics: optional Google Analytics 4 (IP anonymization on) only after visitor consent;
+  a first-party analytics preference with the same consent gate is offered in the privacy banner.
+- Affiliate disclosure: https://catchtheprice.com/affiliate-disclosure

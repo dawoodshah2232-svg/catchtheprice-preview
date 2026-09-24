@@ -1,0 +1,16 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin
+Disallow: /admin-access
+Disallow: /ae/account/
+Disallow: /us/account/
+Disallow: /auth/
+Disallow: /ae/search
+Disallow: /us/search
+Disallow: /uk/
+Disallow: /ca/
+Disallow: /au/
+Disallow: /sa/
+
+Sitemap: https://dawoodshah2232-svg.github.io/catchtheprice-preview/sitemap.xml
