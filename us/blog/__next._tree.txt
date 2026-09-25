@@ -4,4 +4,4 @@
 :HL["/catchtheprice-preview/guides/guide-phones-1.jpg","image"]
 :HL["/catchtheprice-preview/guides/guide-graphics-cards.jpg","image"]
 :HL["/catchtheprice-preview/guides/guide-processors.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"country","param":{"type":"d","key":"us","siblings":["about","affiliate-disclosure","contact","data-sources","editorial-policy","how-pricing-works","privacy","terms"]},"prefetchHints":4192,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"zH-YNdP1QUezofsI5zBFG"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"country","param":{"type":"d","key":"us","siblings":["about","affiliate-disclosure","contact","data-sources","editorial-policy","how-pricing-works","privacy","terms"]},"prefetchHints":4192,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"pjthvq17h7PC_YtbsJwRg"}
